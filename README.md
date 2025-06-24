@@ -40,8 +40,7 @@ O projeto apresenta uma landing page institucional com seções para banners, pr
 
 ## 🚀 Como visualizar
 
-Você pode acessar a versão online clicando [aqui](https://oberon-23.github.io/projeto-ebac-sports/)  
-Ou clonar o repositório localmente:
+Clonar o repositório localmente:
 
 ```bash
 git clone https://github.com/Oberon-23/projeto-ebac-sports.git
